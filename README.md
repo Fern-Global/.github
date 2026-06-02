@@ -4,6 +4,10 @@ SafTap is a high-fidelity DeFi payment bridge that enables anyone to seamlessly 
 
 ---
 
+### User Interface
+Below is a preview of the SafTap application interface, demonstrating the primary workspace:
+
+![Fern-Global](profile/images/Fern-Global.png)
 ##  Key Features
 
 * **Instant Settlements:** Convert USDC directly to your local M-PESA mobile wallet in seconds.
